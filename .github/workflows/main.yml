@@ -37,7 +37,7 @@ jobs:
         uses: docker/login-action@v1
         with:
           username: ${{ secrets.lynnkar }}
-          password: ${{ secrets.Lop#1b@ck56 }}
+          password: ${{ secrets.Lop56 }}
 
       - name: Build Docker Image
         run: docker build -t calc-image .
