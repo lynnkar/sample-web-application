@@ -1,0 +1,19 @@
+{
+  "name": "sample-web-application",
+  "version": "1.0.0",
+  "description": "Calculator Web App",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynnkar/sample-web-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lynnkar/sample-web-application/issues"
+  },
+  "homepage": "https://github.com/lynnkar/sample-web-application#readme"
+}
