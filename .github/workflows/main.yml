@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Install Dependencies
-        run: npm install
+        run: npm install --verbose
 
       - name: Build Application
         run: npm run build
